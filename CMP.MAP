@@ -1,7 +1,7 @@
 
  Start  Stop   Length Name               Class
 
- 00000H 00079H 0007AH DATA               
+ 00000H 00078H 00079H DATA               
  00080H 000DDH 0005EH CODE               
 
 Program entry point at 0008:0000
